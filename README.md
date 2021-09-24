@@ -1,4 +1,4 @@
-<img src = "tic.gif" width= 75%>
+<img src = "tac.gif" width= 75%>
 
 ## 📊 Challenge: Tic-Tac-Toe
 
